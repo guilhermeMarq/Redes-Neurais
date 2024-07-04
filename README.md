@@ -1,6 +1,9 @@
+<p align="center">
+  <img width="250px" src="https://github.com/guilhermeMarq/Metodos_Numericos/assets/72332375/f66138d1-befd-4cdf-9842-4a52d5fcf290" alt="Logo 2">
+</p>
+
 # Physics-Informed Neural Networks (PINNs)
 
-## Descrição
 Este projeto é uma implementação em Python de Redes Neurais Informadas pela Física (PINNs), destinada a resolver três problemas distintos de engenharia e física. O programa é destinado a modelar sistemas fisicos através de equações diferenciais, condições iniciais e condições de contorno que governam o fenômeno físico estudado.
 
 ## Problemas Abordados
@@ -31,18 +34,23 @@ $$k \frac{\partial^2 T}{\partial x^2} = \rho c_p \frac{\partial T}{\partial t}$$
 ![Grafico 3d - Soluçao Analitica](https://github.com/guilhermeMarq/Redes_Neurais/assets/72332375/c71a7788-a367-4382-bf78-37dbff8a25b7)
 
 
-## Como Usar
-Para utilizar este programa, siga os passos abaixo:
-1. Clone o repositório para sua máquina local.
-2. Instale as dependências necessárias utilizando `pip install -r requirements.txt`.
-3. Execute o script principal para cada um dos problemas através do comando `python main.py --problema [nome_do_problema]`.
+## Requisitos:
 
-## Contribuições
-Contribuições são sempre bem-vindas. Para contribuir, por favor, crie um fork do repositório, faça suas alterações e submeta um pull request para avaliação.
+* Python 3.10 + 
+
+
+## Instalação
+
+Clone ou faça o download deste repositório.
+
+
+## Contribuindo
+
+Todas as contribuições, reporte de bugs, correções, melhorias na documentação, aprimoramentos e ideias são bem-vindos.
+
+"*Os erros são os portais da descoberta.*" 
+                                             -**James Joyce**
 
 ## Licença
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
----
-
-OBS: Este README oferece uma visão geral do projeto e sera atualizado conforme o desenvolvimento progride e novas funcionalidades são implementadas.
+Este programa é distribuído sob a licença MIT, isto é, o programa não tem restrições para o uso, modificação ou distribuição. Consulte o arquivo `LICENSE` para obter mais informações.er mais informações.
